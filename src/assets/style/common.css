@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.white{
+	color: #fff;
+}
+.float-right{
+	float: right;
+}
+a:active{
+	background-image: linear-gradient(180deg,#d9d9d9,#d9d9d9 50%,transparent 0);
+    background-size: 120% 1px;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+};
+a{
+	color: #2c3e50;
+}
+.margin-top-40{
+	margin-top: 40px;
+}
+
+ input{
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0); 
+    -webkit-user-select: none;
+    -moz-user-focus: none;
+    -moz-user-select: none;
+    -webkit-appearance:none;
+    outline: none;
+    border: none;
+}
